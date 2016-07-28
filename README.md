@@ -20,4 +20,4 @@ Feel free to join in. All welcome.
 
 ## License
 
-MIT
+[CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/us/) Protocol Labs
