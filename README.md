@@ -18,6 +18,12 @@ Feel free to join in. All welcome.
 
 [![](https://cdn.rawgit.com/jbenet/contribute-ipfs-gif/master/img/contribute.gif)](https://github.com/ipfs/community/blob/master/CONTRIBUTING.md)
 
+## Contributors
+<a align="center" href="https://github.com/ipfs/apps/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ipfs/apps" />
+</a>
+
+
 ## License
 
 [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/us/) Protocol Labs
